@@ -15,6 +15,7 @@
   },
   "BowlerStudioConfigs": {
     "firstVersion": "0.22.1",
+    "fontsize": 12,
     "skinBranch": "0.22.1",
     "skinRepo": "https://github.com/Octogonapus/BowlerStudioImageAssets.git",
     "notifiedArduinoDep": true
